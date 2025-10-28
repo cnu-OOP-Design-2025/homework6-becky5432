@@ -1,5 +1,6 @@
 #include <iostream>
 #include "bird.h"
+#include "bird.cpp"
 
 int main() {
     Bird* birds[] = {
